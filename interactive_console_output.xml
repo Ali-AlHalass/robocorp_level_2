@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.13 on win32)" generated="20230723 13:21:06.842" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Codex\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Open the robot order website">
+<msg timestamp="20230723 13:21:07.332" level="FAIL">No keyword with name 'Open the robot order website' found.</msg>
+<status status="FAIL" starttime="20230723 13:21:07.332" endtime="20230723 13:21:07.332"/>
+</kw>
+<kw name="Open Available Browser(&quot;https://robotsparebinindustries.com/&quot;)">
+<msg timestamp="20230723 13:21:25.729" level="FAIL">No keyword with name 'Open Available Browser("https://robotsparebinindustries.com/")' found.</msg>
+<status status="FAIL" starttime="20230723 13:21:25.729" endtime="20230723 13:21:25.729"/>
+</kw>
+<status status="PASS" starttime="20230723 13:21:06.883" endtime="20230723 13:28:26.529"/>
+</kw>
+<status status="PASS" starttime="20230723 13:21:06.882" endtime="20230723 13:28:26.530"/>
+</test>
+<status status="PASS" starttime="20230723 13:21:06.843" endtime="20230723 13:28:26.531"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
